@@ -10,4 +10,3 @@ The "cool" column is the number of "cool" votes this review received from other 
 
 All reviews start with 0 "cool" votes, and there is no limit to how many "cool" votes a review can receive. <B> In other words, it is a rating of the review itself, not a rating of the business.</B>
 
-The "useful" and "funny" columns are similar to the "cool" column.

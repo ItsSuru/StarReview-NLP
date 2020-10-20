@@ -1,6 +1,6 @@
-## Natural Language Processing Project¶
+## Natural Language Processing Project
 
-We will use the Yelp Review Data Set from Kaggle.
+Here I used the Yelp Review Data Set from Kaggle.
 
 Each observation in this dataset is a review of a particular business by a particular user.
 

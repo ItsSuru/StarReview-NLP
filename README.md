@@ -8,6 +8,6 @@ The "stars" column is the number of stars (1 through 5) assigned by the reviewer
 
 The "cool" column is the number of "cool" votes this review received from other Yelp users.
 
-All reviews start with 0 "cool" votes, and there is no limit to how many "cool" votes a review can receive. ## In other words, it is a rating of the review itself, not a rating of the business.##
+All reviews start with 0 "cool" votes, and there is no limit to how many "cool" votes a review can receive. <B> In other words, it is a rating of the review itself, not a rating of the business.</B>
 
 The "useful" and "funny" columns are similar to the "cool" column.
